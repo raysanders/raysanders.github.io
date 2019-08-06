@@ -1,59 +1,86 @@
-Ray Sanders
-rjs "dot" work "at" raymondjsanders.com
+Ray Sanders, M.Sc
+rjs.astro@raymondjsanders.com
 
-CURRICULUM VITAE
-________________
-Publications
-2014: MPEC Bulletins: 2014 H33, 2014 K04, 2014 K02, 2014 KP2, 2014 LN9, 2014 LJ21, 2014 LK21
-2013: IBVS 6054 - “Photometric Analysis of Variable Stars in NGC 299", Sanders, Sarraj, Schmidtke.
-2012: IBVS 6030 - “Photometric Behavior of Eight Be/X-ray Binaries in the SMC", Sarraj, Sanders, Schmidtke.
+EDUCATION:
 
-Education
-2017: University of North Dakota, M.Sc. Space Studies
-2013: Arizona State University, B.Sc. Earth and Space Exploration
-2008: Mesa Community College, AA
+  Master of Science, Space Studies
+  The University of North Dakota, Grand Forks, ND, 2017
+  Concentration: Astronomy/Astrophysics
 
-Awards
-2012: Dean's List: ASU College of Liberal Arts and Sciences (Spring 2012)
-2010: Dean's List: ASU College of Liberal Arts and Sciences (Fall 2010)
+  Bachelor of Science, Earth and Space Exploration
+  Arizona State University, Tempe, AZ, 2013
+  Concentration: Astronomy/Astrophysics
 
-Memberships
-2016-Present: American Astronomical Society
+PUBLICATIONS:
+  MPEC 2014 H33, 2014 K04, 2014 K02, 2014 KP2, 2014 LN9, 2014 LJ21, 2014 LK21
 
-Employment (Information Technology)
-2008-Present: Linux Administrator / DevOps Engineer
-2008 and prior: Upon Request
+  IBVS 6054: Photometric Analysis of Variable Stars in NGC 299
+    Sanders, Sarraj, Schmidtke.
 
-Employment (Academic)
-2014: Research Specialist, Catalina Sky Survey / University of Arizona Lunar & Planetary Laboratory
-2011-2013: Undergraduate Teaching / Research Assistant, Arizona State University
+  IBVS 6030: Photometric Behavior of Eight Be/X-ray Binaries in the SMC
+    Sarraj, Sanders, Schmidtke.
 
-Workshops
-2012: "Curiosity Has Landed in Your Classroom” Educator Conference
-2012: Astronomical Society of the Pacific “Galileo Goes to Mars” Workshop
-2011: Center for Astronomy Professional Development Teaching Excellence Workshop (Astronomy 101)
+AWARDS: 
 
-Teaching
-2012-2017: Education and Public Outreach (Various)
-2011-2013: Teaching Assistant (Astronomy), Arizona State University
+ASU Dean's List: College of Liberal Arts and Sciences
+ASU Dean's List: College of Liberal Arts and Sciences
 
-Research
-2014: Asteroid 2014 LJ21, Comet C/2014 J1 (Catalina)
-2013: “Photometric Analysis of Variable Stars in NGC 299", Sanders, Sarraj, Schmidtke. IBVS 6054
-2013: Observing Assistant: Vatican Advanced Technology Telescope, Mt. Graham, Arizona
-2012: “Photometric Behavior of Eight Be/X-ray Binaries in the SMC", Sarraj, Sanders, Schmidtke. IBVS 6030
-2012: CUREA Undergraduate Observational Program for Astrophysics at Mt. Wilson Observatory
-2012: Observing Assistant: Perkins Telescope, Flagstaff, Arizona
-2011: Operator/Repair Technician: ASU Small Radio Telescope
+MEMBERSHIPS: 
+  AAS Full Member
 
-Outreach
-2012-2014: NASA Solar System Ambassador
-2012-2013: Freelance Writer, NASA Astrobiology Magazine (astrobio.net)
-http://www.astrobio.net/exclusive/5493/investigatingexoplanetsurfaces
-http://www.astrobio.net/exclusive/4681/whenstellarmetallicitysparksplanetformation
-http://www.astrobio.net/exclusive/4882/canastronomersdetectexoplanetoceans
-http://www.astrobio.net/pressrelease/4529/howwellcanastronomersstudyexoplanetatmospheres
-2012: Director of Outreach, Yuri’s Night 2012
-2011-2013: Founding Member and Outreach Director, ASU “Astro Devils” Astronomy Club
-2010-2013: Volunteer, ASU “Earth and Space Exploration Day”
-2010-2013: Volunteer/Coordinator, ASU Astronomy Open House
+EMPLOYMENT:
+
+  Information Technology:
+    Linux System Administrator / DevOps Engineer
+    2008 and prior: Upon Request
+    
+  Academic:
+    
+    University of Arizona Lunar and Planetary Laboratory Research Specialist, Catalina Sky Survey
+    Arizona State University Undergraduate Teaching / Research Assistant, Arizona State University
+    
+WORKSHOPS: 
+
+  Arizona State University Curiosity Has Landed in Your Classroom
+  Astronomical Society of the Pacic Galileo Goes to Mars Workshop
+  University of Arizona Center for Astronomy Professional Development Teaching Excellence Workshop
+  
+TEACHING: 
+  Various Education and Public Outreach
+  Arizona State University Teaching Assistant (Astronomy)
+  
+RESEARCH: 
+  Christensen, et al.
+    2014 LJ21, Comet C/2014 J1 (Catalina)
+    Additional Catalina Sky Surkey MPEC bulletins upon request.
+  
+  Sanders, Sarraj, Schmidtke.
+    IBVS 6054: Photometric Analysis of Variable Stars in NGC 299
+  
+  Patience, DeRosa, et al.
+    Observing Assistant: Vatican Advanced Technology Telescope / Perkins Telescope
+
+  Sarraj, Sanders, Schmidtke.
+    IBVS 6030: Photometric Behavior of Eight Be/X-ray Binaries in the SMC
+
+  CUREA
+    Undergraduate Observational Program for Astrophysics at Mt. Wilson Observatory
+
+  Groppi, et al. Operator / Technician: ASU Small Radio Telescope
+  
+OUTREACH: 
+  NASA Solar System Ambassador
+  
+  Astrobiology Magazine - Freelance Writer 
+    http://www.astrobio.net/exclusive/5493/investigatingexoplanetsurfaces
+    http://www.astrobio.net/exclusive/4681/whenstellarmetallicitysparksplanetformation
+    http://www.astrobio.net/exclusive/4882/canastronomersdetectexoplanetoceans
+    http://www.astrobio.net/pressrelease/4529/howwellcanastronomersstudyexoplanetatmospheres
+    
+  Yuri's Night - Director of Outreach
+  
+  Arizona State University Founding Member and Outreach Director, ASU Astro Devils Astronomy Club
+  
+  Volunteer, ASU Earth and Space Exploration Day
+  
+  Volunteer/Coordinator, ASU Astronomy Open House
