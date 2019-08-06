@@ -12,6 +12,7 @@ EDUCATION:
   Concentration: Astronomy/Astrophysics
 
 PUBLICATIONS:
+
   MPEC 2014 H33, 2014 K04, 2014 K02, 2014 KP2, 2014 LN9, 2014 LJ21, 2014 LK21
 
   IBVS 6054: Photometric Analysis of Variable Stars in NGC 299
