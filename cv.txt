@@ -43,7 +43,7 @@ EMPLOYMENT:
 WORKSHOPS: 
 
   Arizona State University Curiosity Has Landed in Your Classroom
-  Astronomical Society of the Pacic Galileo Goes to Mars Workshop
+  Astronomical Society of the Pacific Galileo Goes to Mars Workshop
   University of Arizona Center for Astronomy Professional Development Teaching Excellence Workshop
   
 TEACHING: 
