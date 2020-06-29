@@ -1,86 +1,87 @@
 R.J. Sanders, M.Sc
-rjs.astro@raymondjsanders.com
+rjs (dot) astro "at" raymondjsanders.com
 
 EDUCATION:
 
-  Master of Science, Space Studies
-  The University of North Dakota, Grand Forks, ND, 2017
-  Concentration: Astronomy/Astrophysics
+Master of Science, Space Studies
+The University of North Dakota, Grand Forks, ND, 2017
+Concentration: Observational Astronomy
 
-  Bachelor of Science, Earth and Space Exploration
-  Arizona State University, Tempe, AZ, 2013
-  Concentration: Astronomy/Astrophysics
+Bachelor of Science, Earth and Space Exploration
+Arizona State University, Tempe, AZ, 2013
+Concentration: Astrophysics
 
 PUBLICATIONS:
 
-  MPEC 2014 H33, 2014 K04, 2014 K02, 2014 KP2, 2014 LN9, 2014 LJ21, 2014 LK21
+MPEC 2014 H33, 2014 K04, 2014 K02, 2014 KP2, 2014 LN9, 2014 LJ21, 2014 LK21
 
-  IBVS 6054: Photometric Analysis of Variable Stars in NGC 299
-    Sanders, Sarraj, Schmidtke.
+IBVS 6054: Photometric Analysis of Variable Stars in NGC 299
+  Sanders, Sarraj, Schmidtke.
 
-  IBVS 6030: Photometric Behavior of Eight Be/X-ray Binaries in the SMC
-    Sarraj, Sanders, Schmidtke.
+IBVS 6030: Photometric Behavior of Eight Be/X-ray Binaries in the SMC
+  Sarraj, Sanders, Schmidtke.
 
 AWARDS:
 
 ASU Dean's List: College of Liberal Arts and Sciences
 
 MEMBERSHIPS:
-  AAS Full Member
+AAS Full Member
 
 EMPLOYMENT:
 
-  Information Technology:
-    2005 - Present: Linux System Administrator / DevOps Engineer / I.T. Manager
-    2005 and prior: System Administrator / Various
-    
-  Academic:
+Information Technology:
+System Administrator, Linux System Administrator, Sr. DevOps Engineer, I.T. Manager
 
-    University of Arizona Lunar and Planetary Laboratory Research Specialist, Catalina Sky Survey
-    Arizona State University Undergraduate Teaching / Research Assistant, Arizona State University
+Academic:
+
+  University of Arizona Lunar and Planetary Laboratory Research Specialist, Catalina Sky Survey
+  Arizona State University Undergraduate Teaching Assistant, Arizona State University
+  Arizona State University Undergraduate Research Assistant, Arizona State University
 
 WORKSHOPS:
 
-  Arizona State University Curiosity Has Landed in Your Classroom
-  Astronomical Society of the Pacific Galileo Goes to Mars Workshop
-  University of Arizona Center for Astronomy Professional Development Teaching Excellence Workshop
+Arizona State University Curiosity Has Landed in Your Classroom
+Astronomical Society of the Pacific Galileo Goes to Mars Workshop
+University of Arizona Center for Astronomy Professional Development Teaching Excellence Workshop
 
 TEACHING:
-  Various Education and Public Outreach
-  Arizona State University Teaching Assistant (Astronomy)
+Various Education and Public Outreach
+Arizona State University Teaching Assistant (Astronomy)
 
 RESEARCH:
-  Christensen, et al.
-    2014 LJ21, Comet C/2014 J1 (Catalina)
-    Additional Catalina Sky Surkey MPEC bulletins upon request.
+Christensen, et al.
+  2014 LJ21, Comet C/2014 J1 (Catalina)
+  Additional Catalina Sky Surkey MPEC bulletins upon request.
 
-  Sanders, Sarraj, Schmidtke.
-    IBVS 6054: Photometric Analysis of Variable Stars in NGC 299
+Sanders, Sarraj, Schmidtke.
+  IBVS 6054: Photometric Analysis of Variable Stars in NGC 299
 
-  Patience, DeRosa, et al.
-    Observing Assistant: Vatican Advanced Technology Telescope / Perkins Telescope
+Patience, DeRosa, et al.
+  Observing Assistant: Vatican Advanced Technology Telescope
+  Observing Assistant: Perkins Telescope
 
-  Sarraj, Sanders, Schmidtke.
-    IBVS 6030: Photometric Behavior of Eight Be/X-ray Binaries in the SMC
+Sarraj, Sanders, Schmidtke.
+  IBVS 6030: Photometric Behavior of Eight Be/X-ray Binaries in the SMC
 
-  CUREA
-    Undergraduate Observational Program for Astrophysics at Mt. Wilson Observatory
+CUREA
+  Undergraduate Observational Program for Astrophysics at Mt. Wilson Observatory
 
-  Groppi, et al. Operator / Technician: ASU Small Radio Telescope
+Groppi, et al. Operator: ASU Small Radio Telescope
 
 OUTREACH:
-  NASA Solar System Ambassador
+NASA Solar System Ambassador
 
-  Astrobiology Magazine - Freelance Writer
-    http://www.astrobio.net/exclusive/5493/investigatingexoplanetsurfaces
-    http://www.astrobio.net/exclusive/4681/whenstellarmetallicitysparksplanetformation
-    http://www.astrobio.net/exclusive/4882/canastronomersdetectexoplanetoceans
-    http://www.astrobio.net/pressrelease/4529/howwellcanastronomersstudyexoplanetatmospheres
+Astrobiology Magazine - Freelance Writer
+  http://www.astrobio.net/exclusive/5493/investigatingexoplanetsurfaces
+  http://www.astrobio.net/exclusive/4681/whenstellarmetallicitysparksplanetformation
+  http://www.astrobio.net/exclusive/4882/canastronomersdetectexoplanetoceans
+  http://www.astrobio.net/pressrelease/4529/howwellcanastronomersstudyexoplanetatmospheres
 
-  Yuri's Night - Director of Outreach
+Yuri's Night - Director of Outreach
 
-  Arizona State University Founding Member and Outreach Director, ASU Astro Devils Astronomy Club
+Arizona State University Founding Member and Outreach Director, ASU Astro Devils Astronomy Club
 
-  Volunteer, ASU Earth and Space Exploration Day
+Volunteer, ASU Earth and Space Exploration Day
 
-  Volunteer/Coordinator, ASU Astronomy Open House
+Volunteer, ASU Astronomy Open House
